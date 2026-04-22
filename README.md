@@ -1,12 +1,33 @@
-# React + Vite
+# PetApp 🐾
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**PetApp**, evcil hayvan sahiplerinin dostlarının sağlık, beslenme ve aktivite süreçlerini profesyonelce takip etmelerini sağlayan kapsamlı bir yönetim uygulamasıdır. Bu proje, kullanıcı odaklı bir arayüz ile güçlü bir veri yönetim yapısını bir araya getirir.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Özellikler
 
-## Expanding the ESLint configuration
+* **Evcil Hayvan Profilleri:** Her bir hayvan için tür, yaş, kilo ve tıbbi geçmiş gibi detaylı kayıt tutma.
+* **Sağlık Takibi:** Aşı takvimi, veteriner randevuları ve ilaç kullanım hatırlatıcıları.
+* **Beslenme Yönetimi:** Günlük öğün planlama ve diyet takibi.
+* **Aktivite Logları:** Günlük yürüyüş ve oyun sürelerinin kaydedilmesi.
+* **Kullanıcı Dostu Tasarım:** Sade ve hızlı erişilebilir menü yapısı.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Teknik Özellikler
+
+Bu uygulama, sürdürülebilir ve ölçeklenebilir yazılım prensipleriyle geliştirilmiştir:
+
+* **Modüler Mimari:** Veri modelleri ve kullanıcı arayüzü birbirinden bağımsız ve geliştirilebilir yapıdadır.
+* **Veri Yönetimi:** CRUD (Create, Read, Update, Delete) operasyonları ile etkin veri saklama.
+* **OOP Prensipleri:** Nesne yönelimli programlama ile temiz ve tekrar kullanılabilir kod yapısı.
+
+---
+
+## 🚀 Başlangıç
+
+Projeyi yerelinizde çalıştırmak için:
+
+1. **Repoyu klonlayın:**
+   ```bash
+   git clone [https://github.com/caneraslan/PetApp.git](https://github.com/caneraslan/PetApp.git)
